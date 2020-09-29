@@ -1,0 +1,223 @@
+/*css*/
+body{
+    background: aliceblue;
+}
+/*页眉*/
+nav{
+    font-size: 12px;
+    text-align: right;
+    position: relative;
+}
+.navfont{
+    color: dodgerblue;
+}
+/*顶部区块*/
+#div1{
+    position: relative;
+    background: white url("logo.png") no-repeat;
+    box-shadow: -1px 5px 5px #eee;
+    width: 100%;
+    height: 80px;
+
+}
+/*图片背景*/
+#div2{
+    background-image: url("login-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%  100%;
+    position: relative;
+    margin-top: 40px;
+    width: 100%;
+    height: 550px;
+}
+/*登录界面*/
+#div3{
+    background:white;
+    position: absolute;
+    border-radius: 10px;
+    border-bottom-style: dashed;
+    width: 250px;
+    height:250px;
+    margin-left: 1070px;
+    margin-top: 145px;
+}
+/*登录内容界面*/
+#div4{
+    margin-top: 30px;
+    margin-left: 48px;
+}
+#footer{
+    /*background-image: url("/web1/logo.png");*/
+    margin-top: 20px;
+    position: relative;
+    background: white;
+    background-image: url("Quality_assurance.gif"), url("Seven_days.gif"), url("Fake_a_lose_three.gif");
+    background-repeat: no-repeat;
+    background-position: 400px 20px, 700px 20px, 1000px 20px;
+    box-shadow: -1px 5px 5px #eee;
+    width: 100%;
+    height: 150px;
+}
+/*竖线*/
+.xlx{
+    position: absolute;
+    float: left;
+    width: 1px;
+    height: 50px;
+    margin-top: 17px;
+    margin-left: 250px;
+    background: #b3b5ba;
+}
+.xlx1{
+    position: absolute;
+    float: left;
+    width: 1px;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: 620px;
+    background: #b3b5ba;
+}
+/*#img1{*/
+/*    height:80px;*/
+/*    width:240px;*/
+/*}*/
+/*span字体样式*/
+#spanfont{
+    position: absolute;
+    float: right;
+    font-size: 25px;
+    margin-left: 270px;
+    margin-top: 23px;
+
+}
+.newinput{
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    color: dodgerblue;
+}
+#button{
+    width: 155px;
+    height: 30px;
+    border-radius: 5px;
+    background: dodgerblue;
+}
+#foot1{
+    font-size: 19px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 440px;
+}
+#foot2{
+     font-size: 19px;
+     position: absolute;
+     margin-top: 30px;
+     margin-left: 740px;
+ }
+#foot3{
+     font-size: 19px;
+     position: absolute;
+     margin-top: 30px;
+     margin-left: 1040px;
+ }
+#food4{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 403px;
+}
+#food5{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 420px;
+}
+.footxlx{
+    position: absolute;
+    float: left;
+    width: 1px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 600px;
+    background: #b3b5ba;
+}
+.footxlx1{
+    position: absolute;
+    float: left;
+    width: 1px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 900px;
+    background: #b3b5ba;
+}
+.footxlx2{
+    position: absolute;
+    float: left;
+    width: 1px;
+    height: 60px;
+    margin-top: 75px;
+    margin-left: 900px;
+    background: #b3b5ba;
+}
+#footimg1{
+    height: 15px;
+    width: 84px;
+    vertical-align: middle;
+    margin-left: 950px;
+    margin-top: 90px;
+}
+#footimg2{
+    height: 21px;
+    width: 74px;
+    margin-left: 1060px;
+}
+/*注册页面*/
+#rediv{
+    background: white;
+    background-size: 100%  100%;
+    box-shadow: -1px 5px 5px #eee;
+    position: relative;
+    margin-top: 40px;
+    width: 100%;
+    height: 610px;
+}
+/*栏目*/
+#rediv1{
+
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 550px;
+}
+#rediv2{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 45px;
+}
+.rep{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.rebutton{
+    position: absolute;
+    border: 0;
+    background: coral;
+    width: 75px;
+    height: 30px;
+    margin-left: 115px;
+}
+.reinput{
+    border-radius: 3px;
+}
+#reinput{
+    border-radius: 3px;
+    font-size: 12px;
+}
+.refont{
+    color: darkgrey;
+    font-size: 14px;
+}
+.select{
+    border-radius: 3px;
+}
+/*地址*/
